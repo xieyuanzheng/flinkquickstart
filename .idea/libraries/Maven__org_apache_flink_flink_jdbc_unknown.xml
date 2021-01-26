@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.flink:flink-jdbc:unknown">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../server/apache-maven-3.6.1/repository/org/apache/flink/flink-jdbc/unknown/flink-jdbc-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../server/apache-maven-3.6.1/repository/org/apache/flink/flink-jdbc/unknown/flink-jdbc-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../server/apache-maven-3.6.1/repository/org/apache/flink/flink-jdbc/unknown/flink-jdbc-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
